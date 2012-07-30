@@ -13,3 +13,6 @@
 [submodule "bundle/ropevim"]
 	path = bundle/ropevim
 	url = https://github.com/sontek/rope-vim.git
+[submodule "bundle/pathogen"]
+    path = bundle/pathogen
+    url = https://github.com/tpope/vim-pathogen.git
